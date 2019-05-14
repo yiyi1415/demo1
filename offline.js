@@ -1,0 +1,29 @@
+﻿{
+	"version": 1555293403,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/home_bg.png",
+		"images/crazy-sheet0.png",
+		"images/play-sheet0.png",
+		"images/main-sheet0.png",
+		"images/red-sheet0.png",
+		"images/blue-sheet0.png",
+		"images/yellow-sheet0.png",
+		"images/over-sheet0.png",
+		"images/tryagain-sheet0.png",
+		"images/home-sheet0.png",
+		"media/bg.m4a",
+		"media/bg.ogg",
+		"media/correct.m4a",
+		"media/correct.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
